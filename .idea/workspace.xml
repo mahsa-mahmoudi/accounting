@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79eb7b8c-f7de-4884-b647-47df33d43733" name="Changes" comment="session5" />
+    <list default="true" id="79eb7b8c-f7de-4884-b647-47df33d43733" name="Changes" comment="session6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -80,7 +87,7 @@
       <workItem from="1713895525290" duration="1354000" />
       <workItem from="1714328239349" duration="5579000" />
       <workItem from="1716319950968" duration="4370000" />
-      <workItem from="1716997256932" duration="825000" />
+      <workItem from="1716997256932" duration="2131000" />
     </task>
     <task id="LOCAL-00001" summary="level2">
       <created>1714504478567</created>
@@ -96,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716997372102</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="session6">
+      <created>1717006034736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717006034736</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="level2" />
     <MESSAGE value="session5" />
-    <option name="LAST_COMMIT_MESSAGE" value="session5" />
+    <MESSAGE value="session6" />
+    <option name="LAST_COMMIT_MESSAGE" value="session6" />
   </component>
 </project>
