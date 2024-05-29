@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79eb7b8c-f7de-4884-b647-47df33d43733" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="79eb7b8c-f7de-4884-b647-47df33d43733" name="Changes" comment="level2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +45,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.First" />
+    <configuration name="AnimalsJangal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animals.AnimalsJangal" />
       <module name="Jalse1" />
       <extension name="coverage">
         <pattern>
@@ -64,7 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.First" />
+        <item itemvalue="Application.AnimalsJangal" />
       </list>
     </recent_temporary>
   </component>
@@ -79,8 +75,17 @@
       <workItem from="1713894378411" duration="1095000" />
       <workItem from="1713895501878" duration="1000" />
       <workItem from="1713895525290" duration="1354000" />
-      <workItem from="1714328239349" duration="4681000" />
+      <workItem from="1714328239349" duration="5579000" />
+      <workItem from="1716319950968" duration="4370000" />
     </task>
+    <task id="LOCAL-00001" summary="level2">
+      <created>1714504478567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714504478567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="level2" />
+    <option name="LAST_COMMIT_MESSAGE" value="level2" />
   </component>
 </project>
