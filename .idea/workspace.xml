@@ -39,21 +39,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AnimalsJangal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Animals.AnimalsJangal" />
@@ -87,7 +88,9 @@
       <workItem from="1713895525290" duration="1354000" />
       <workItem from="1714328239349" duration="5579000" />
       <workItem from="1716319950968" duration="4370000" />
-      <workItem from="1716997256932" duration="2131000" />
+      <workItem from="1716997256932" duration="3323000" />
+      <workItem from="1717695805426" duration="1348000" />
+      <workItem from="1717697215115" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="level2">
       <created>1714504478567</created>
@@ -110,7 +113,28 @@
       <option name="project" value="LOCAL" />
       <updated>1717006034736</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="session6">
+      <created>1717008357403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717008357403</updated>
+    </task>
+    <task id="LOCAL-00005" summary="session6">
+      <created>1717008369123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717008369123</updated>
+    </task>
+    <task id="LOCAL-00006" summary="session6">
+      <created>1717008794552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717008794552</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
