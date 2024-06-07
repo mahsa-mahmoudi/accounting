@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79eb7b8c-f7de-4884-b647-47df33d43733" name="Changes" comment="session6" />
+    <list default="true" id="79eb7b8c-f7de-4884-b647-47df33d43733" name="Changes" comment="session6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,8 +56,20 @@
     ]
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="AnimalsJangal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Accounting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Accounting">
+    <configuration name="Accounting" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Accounting.Main" />
+      <module name="Jalse1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalsJangal" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Animals.AnimalsJangal" />
       <module name="Jalse1" />
       <extension name="coverage">
@@ -67,11 +82,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.AnimalsJangal" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="Application.AnimalsJangal" />
+      <item itemvalue="Application.Accounting" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,7 +102,8 @@
       <workItem from="1716319950968" duration="4370000" />
       <workItem from="1716997256932" duration="3323000" />
       <workItem from="1717695805426" duration="1348000" />
-      <workItem from="1717697215115" duration="1427000" />
+      <workItem from="1717697215115" duration="2543000" />
+      <workItem from="1717777286924" duration="3268000" />
     </task>
     <task id="LOCAL-00001" summary="level2">
       <created>1714504478567</created>
